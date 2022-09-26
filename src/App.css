@@ -1,0 +1,7 @@
+.form-title, .result-item-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+.input-wrap, .checkbox-input-wrap {
+  display: flex;
+}
